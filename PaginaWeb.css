@@ -210,7 +210,8 @@ header {
     }
 
     .textos-header {
-        padding: 40px;
+        padding: 20px;
+        margin-left: 0px;
     }
 
     .textos-header h1 {
@@ -218,6 +219,13 @@ header {
     }
     .textos-header p {
         font-size: 20px;
+    }
+    .Boton a {
+        padding: 10px 50px;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 18px;
+
     }
 
     .abrir-menu {
@@ -292,5 +300,15 @@ header {
     }
     .btn-1{
         font-size: 20px; 
+    }
+    .texto{
+        padding: 20px;
+        margin-left: 0px;    
+    }
+    .texto p{
+        font-size: 16px; 
+    }
+    .texto h2{
+        font-size: 25px; 
     }
 }
